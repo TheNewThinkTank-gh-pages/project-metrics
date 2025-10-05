@@ -25,7 +25,7 @@ icecream = "^2.1.8"
 loguru = "^0.7.2"
 file-convertion-tools = "^0.0.8"
 dynaconf = "^3.2.11"
-nltk = "^3.9.1"
+nltk = "^3.9.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.10.0"
