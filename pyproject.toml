@@ -24,7 +24,7 @@ seaborn = "^0.13.2"
 icecream = "^2.1.8"
 loguru = "^0.7.2"
 file-convertion-tools = "^0.0.8"
-dynaconf = "^3.2.11"
+dynaconf = "^3.2.12"
 nltk = "^3.9.2"
 
 [tool.poetry.group.dev.dependencies]
